@@ -1,0 +1,26 @@
+* {
+    font-size: 20px; /* I like big letters */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background: linear-gradient(lightcyan, aliceblue); /* Subtle, but pleasant */
+    margin: 0px;
+}
+
+h1, h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: auto;
+}
+
+h1 {
+    font-size: 3.75em;
+}
+
+h2 {
+    font-size: 2.75em;
+}
+
+h3 {
+    font-size: 1.25em;
+}
