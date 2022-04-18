@@ -28,18 +28,11 @@ At the top of the webpage is an introductory header with my name, contact inform
 * Proper use of semantic HTML
 * Responsive web design
 * Multiple stylesheets
-* Rich use of CSS features
-  * Linear gradient background
-  * Pseudo-classes such as `:hover`
-  * Variables
-  * Media queries
-* CSS functions
-    ```CSS
-    .project:first-child {
-      width: calc(var(--project-item-width) * var(--project-first-size-mult));
-      ...
-    }
-* Extensive use of CSS `display` properties, including `flex` and `grid`, to display content
+* Use of Bootstrap elements
+  * Cards
+  * List Groups
+  * Columns
+  * Flexbox classes
 
 
 ## Technologies Used
