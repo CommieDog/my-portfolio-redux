@@ -33,6 +33,14 @@ header {
     border: 6px ridge chocolate;
 }
 
+#projects .card {
+    background-color: rgba(173, 216, 230, 0.5);
+}
+
 #projects .card-img {
     width: 320px;
+}
+
+#experience .list-group-item {
+    background-color: rgba(173, 216, 230, 0.5);
 }
