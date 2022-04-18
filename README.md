@@ -21,8 +21,7 @@ A sample deployment of the website is available on [GitHub Pages](https://commie
 
 ## Description
 
-
-
+At the top of the webpage is an introductory header with my name, contact information, and a photo. Below that is a brief biography. The next section is a showcase of what I feel are some of my best projects, laid out individually on Bootstrap cards within a responsive row layout that stacks vertically on smaller screen sizes. Next up is a brief list of experienced gained working on my personal project. At the end is a bulleted list of contact links for GitHub, LinkedIn, and my email.
 
 ## Features
 
